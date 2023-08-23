@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964618141857",
+    "project_id": "forlesson-74a42",
+    "storage_bucket": "forlesson-74a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964618141857:android:133abb782b8a8c5b24b0e0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_p1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964618141857-phkjps2tmj66bpn5m61ebbjnqu9aj96r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBijl3jGwnd_g-Un3esKYE0KAVrTN2pq8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964618141857-phkjps2tmj66bpn5m61ebbjnqu9aj96r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

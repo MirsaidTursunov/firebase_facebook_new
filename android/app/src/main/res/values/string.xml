@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PulimKop</string>
+    <string name="facebook_app_id">1061905524798899</string>
+    <string name="fb_login_protocol_scheme">fb1061905524798899</string>
+    <string name="facebook_client_token">ba5e191222a0d550f56726f35a1ec6b5</string>
+</resources>
